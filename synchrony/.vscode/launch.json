@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Launch main class",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/mainClass.py",
+            "console": "integratedTerminal"
+        }
+    ]
+}
